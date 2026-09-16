@@ -38,7 +38,6 @@ Linux (Postfix, Dovecot) · Network Configuration
 
 ### Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vieira3030&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira3030&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" width="48%">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vieira3030&show_icons=true&hide_border=true&count_private=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vieira3030&layout=compact&hide_border=true&theme=transparent)
