@@ -27,14 +27,12 @@ Linux (Postfix, Dovecot) · Network Configuration
 
 | Project | Description | Stack |
 |---|---|---|
-| [Multiplayer Reversi](https://github.com/vieira3030/Reversi_LdP_G05) | Networked board game with GUI and saveable matches | Java · JavaFX · Sockets |
-| [Olheiro Pro](https://github.com/vieira3030/Trab2-TW) | Web app for searching, comparing, and cataloging football players | Angular · TypeScript |
-| [EuGaranto](https://github.com/vieira3030/EuGaranto_IHM) | Warranty management app, from user research to prototype | Firebase · Capacitor · Figma |
-| [REST API](https://github.com/TW2526-classroom/trab-restapi-vieira3030) | MVC architecture backend, cloud database, and Swagger documentation | Node.js · Express · MongoDB |
+| [Multiplayer Reversi](https://github.com/vieira3030/reversi-multiplayer-java) | Networked board game with GUI and saveable matches | Java · JavaFX · Sockets |
+| [Olheiro Pro](https://github.com/vieira3030/olheiro-pro) | Web app for searching, comparing, and cataloging football players | Angular · TypeScript |
+| [EuGaranto](https://github.com/vieira3030/eugaranto) | Warranty management app, from user research to prototype | Firebase · Capacitor · Figma |
 | [Soundboard](https://github.com/vieira3030/2026-ecgm-eds-ab3-soundboard) | Interactive soundboard, developed in a team using sprints | JavaScript · GitHub Pages |
 | [Storyboard Generator](https://github.com/vieira3030/storyboard-generator) | Generates storyboards from a text script | JavaScript |
 | [Podedex](https://github.com/vieira3030/Podedex) | Pokédex-style catalog app | JavaScript |
-
 ---
 
 ### Statistics
