@@ -1,9 +1,9 @@
 # Rodrigo Vieira
 
-Computer Graphics and Multimedia Engineering student at ESTG - IPVC, Viana do Castelo.
+Computer Graphics and Multimedia Engineering student at ESTG - UNIPVC, Viana do Castelo.
 I bridge the gap between backend development and user interfaces, and I love seeing both sides work perfectly together.
 
-📫 rodrigo.vieira@exemplo.com
+📫 rodrigofareja@gmail.com
 
 ---
 
