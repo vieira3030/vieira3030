@@ -32,8 +32,7 @@ Linux (Postfix, Dovecot) · Network Configuration
 | [EuGaranto](https://github.com/vieira3030/eugaranto) | Warranty management app, from user research to prototype | Firebase · Capacitor · Figma |
 | [Soundboard](https://github.com/vieira3030/2026-ecgm-eds-ab3-soundboard) | Interactive soundboard, developed in a team using sprints | JavaScript · GitHub Pages |
 | [Storyboard Generator](https://github.com/vieira3030/storyboard-generator) | Generates storyboards from a text script | JavaScript |
-| [Podedex](https://github.com/vieira3030/Podedex) | Pokédex-style catalog app | JavaScript |
----
+| [Podedex](https://github.com/vieira3030/Podedex) ([demo](https://vieira3030.github.io/Podedex/)) | Pokédex-style app to search and browse Pokémon | JavaScript · PokeAPI |
 
 ### Statistics
 
